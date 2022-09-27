@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  background-color: rgb(166, 195, 219);
+  justify-content: center;
+}
+form {
+ padding: 10%;
+ background-color:rgb(241, 235, 237);
+ margin-top: 1px;
+ justify-content: center;
+}
+
+.App-header {
+ background-color: rgb(241, 235, 237);
+ /* min-height:inherit;  */
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ margin-top: 0px;
+ font-size: calc(10px + 2vmin);
+ color: black;
+
+}
+
+.photo {
+  height: 100px;
+      width: 100px; 
+}
+.center {
+  display: flex;
+  justify-content: 'center';
+  align-items: 'center';
+}
+base {
+  display:flex;
+}
